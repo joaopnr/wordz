@@ -13,6 +13,9 @@ O **Wordz** é um jogo de terminal inspirado no *Wordle*, desenvolvido como proj
 - Ranking local com nome e pontuação de cada jogador.
 
 ## 🛠️ Como Compilar e Rodar
+
+*É necessário baixar o arquivo [fases.txt](./fases.txt) para que o jogo funcione corretamente.*
+
 Certifique-se de ter o **GCC** instalado. No terminal, execute:
 
 ```bash
